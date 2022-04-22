@@ -182,9 +182,9 @@
           </a>
           <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">  
             <a class="dropdown-item header division">Mainnets</a>
-            <a class="dropdown-item" href="https://reiscan.com/">Rei Mainnet</a>
+            <a class="dropdown-item" href="https://ivarscan.com/">IVAREX Mainnet</a>
             <a class="dropdown-item header division">Testnets</a>
-            <a class="dropdown-item" href="https://testnet.reiscan.com/">Rei Testnet</a>
+            <a class="dropdown-item" href="https://testnet.ivarscan.com/">IVAREX Testnet</a>
           </div>
         </li>
       </ul>
