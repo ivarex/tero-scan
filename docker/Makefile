@@ -1,10 +1,10 @@
 SYSTEM := $(shell uname -s)
 HOST := host.docker.internal
-DOCKER_REPO := asia-southeast1-docker.pkg.dev/moonrhythm-finance/rei
+DOCKER_REPO := ivarscan
 APP_NAME := blockscout
 BS_CONTAINER_IMAGE := $(DOCKER_REPO)/$(APP_NAME)
 BS_CONTAINER_NAME := blockscout
-PG_CONTAINER_IMAGE := postgres:13.6
+PG_CONTAINER_IMAGE := postgres:14
 PG_CONTAINER_NAME := db
 THIS_FILE = $(lastword $(MAKEFILE_LIST))
 BS_NEXT_RELEASE = 4.1.2
