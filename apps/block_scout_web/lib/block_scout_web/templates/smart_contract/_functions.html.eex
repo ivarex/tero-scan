@@ -117,7 +117,7 @@
                     to: address_path(@conn, :show, output["value"])) %><%= if not_last_element?(length, index) do %>,&#160;<% end %>
                 </div>
               <% else %>
-                <div class="align-self-center function-output <%= if not_last_element?(length, index), do: "mb-1" %>"><%= raw(values_with_type(output["value"], output["type"], [output["name"]], 0, output["components"])) %></div>
+              <div class="align-self-center function-output word-break-all <%= if not_last_element?(length, index), do: "mb-1" %>"><%= raw(values_with_type(output["value"], output["type"], [output["name"]], 0, output["components"])) %></div>
               <% end %>
             <% end %>
           </div>

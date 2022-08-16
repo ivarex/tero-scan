@@ -37,11 +37,11 @@ defmodule BlockScoutWeb.LayoutView do
   alias BlockScoutWeb.SocialMedia
 
   def logo do
-    "/images/ivarex_logo.svg"
+    "/images/ivar_logo.svg"
   end
 
   def logo_footer do
-    "/images/ivarex_logo.svg"
+    "/images/ivar_logo.svg"
   end
 
   def logo_text do
