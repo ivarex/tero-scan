@@ -178,13 +178,11 @@
             <span class="nav-link-icon">
               <%= render BlockScoutWeb.IconsView, "_active_icon.html" %>
             </span>
-            Ivar <%= subnetwork_title() %>
+            Tero <%= subnetwork_title() %>
           </a>
           <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">  
             <a class="dropdown-item header division">Mainnets</a>
-            <a class="dropdown-item" href="https://ivarscan.com/">Ivar Mainnet</a>
-            <a class="dropdown-item header division">Testnets</a>
-            <a class="dropdown-item" href="https://testnet.ivarscan.com/">Ivar Testnet</a>
+            <a class="dropdown-item" href="https://scan.terochain.com/">Tero Chain</a>           
           </div>
         </li>
       </ul>

@@ -1,6 +1,6 @@
 SYSTEM := $(shell uname -s)
 HOST := host.docker.internal
-DOCKER_REPO := gitea.ivarex.xyz/ivarex/ivarscan
+DOCKER_REPO := gitea.ivarex.xyz/ivarex/teroscan
 APP_NAME := blockscout
 BS_CONTAINER_IMAGE := $(DOCKER_REPO)/$(APP_NAME):v4.1.3-beta
 BS_CONTAINER_NAME := blockscout

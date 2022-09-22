@@ -37,7 +37,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/address/_metatags.html.eex:3
 msgid "%{address} - %{subnetwork} Explorer"
-msgstr "%{address} - Ivar %{subnetwork} Explorer"
+msgstr "%{address} - Tero %{subnetwork} Explorer"
 
 #, elixir-format
 #: lib/block_scout_web/templates/block/overview.html.eex:12
@@ -68,17 +68,17 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:2
 msgid "%{subnetwork} %{network} Explorer"
-msgstr "Ivar %{subnetwork} Explorer"
+msgstr "Tero %{subnetwork} Explorer"
 
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_default_title.html.eex:2
 msgid "%{subnetwork} Explorer - BlockScout"
-msgstr "Ivar %{subnetwork} Explorer"
+msgstr "Tero %{subnetwork} Explorer"
 
 #, elixir-format
 #: lib/block_scout_web/templates/stakes/_metatags.html.eex:2
 msgid "%{subnetwork} Staking DApp - BlockScout"
-msgstr "Ivar %{subnetwork} Staking DApp - BlockScout"
+msgstr "Tero %{subnetwork} Staking DApp - BlockScout"
 
 #, elixir-format
 #: lib/block_scout_web/views/transaction_view.ex:349
@@ -146,12 +146,12 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/api_docs/_metatags.html.eex:4
 msgid "API endpoints for the %{subnetwork}"
-msgstr "API endpoints for the Ivar %{subnetwork}"
+msgstr "API endpoints for the Tero %{subnetwork}"
 
 #, elixir-format
 #: lib/block_scout_web/templates/api_docs/_metatags.html.eex:2
 msgid "API for the %{subnetwork} - BlockScout"
-msgstr "API for the Ivar %{subnetwork}"
+msgstr "API for the Tero %{subnetwork}"
 
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:124
@@ -364,7 +364,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/block/_metatags.html.eex:3
 msgid "Block %{block_number} - %{subnetwork} Explorer"
-msgstr "Block %{block_number} - Ivar %{subnetwork} Explorer"
+msgstr "Block %{block_number} - Tero %{subnetwork} Explorer"
 
 #, elixir-format
 #: lib/block_scout_web/templates/block_transaction/404.html.eex:7
@@ -414,7 +414,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:4
 msgid "BlockScout provides analytics data, API, and Smart Contract tools for the %{subnetwork}"
-msgstr "BlockScout provides analytics data, API, and Smart Contract tools for the Ivar %{subnetwork}"
+msgstr "BlockScout provides analytics data, API, and Smart Contract tools for the Tero %{subnetwork}"
 
 #, elixir-format
 #: lib/block_scout_web/templates/chain/show.html.eex:176
@@ -437,7 +437,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_footer.html.eex:22
 msgid "Blockscout is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum Networks."
-msgstr "Ivar Explorer is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ivar Networks."
+msgstr "Tero Explorer is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Tero Networks."
 
 #, elixir-format
 #: lib/block_scout_web/templates/stakes/_stakes_top.html.eex:45
@@ -1024,12 +1024,12 @@ msgstr ""
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:104 lib/block_scout_web/templates/smart_contract/_functions.html.eex:104
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:146
 msgid "ETH"
-msgstr "IVAR"
+msgstr "TERO"
 
 #, elixir-format
 #: lib/block_scout_web/templates/api_docs/eth_rpc.html.eex:4
 msgid "ETH RPC API Documentation"
-msgstr "Ivar RPC API Documentation"
+msgstr "Tero RPC API Documentation"
 
 #, elixir-format
 #: lib/block_scout_web/templates/address_contract/index.html.eex:76
@@ -1118,7 +1118,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/_tile.html.eex:43 lib/block_scout_web/templates/transaction/overview.html.eex:411
 #: lib/block_scout_web/views/wei_helpers.ex:78
 msgid "Ether"
-msgstr "IVAR"
+msgstr "TERO"
 
 #, elixir-format
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:211
@@ -2676,7 +2676,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/address/_metatags.html.eex:13
 msgid "Top Accounts - %{subnetwork} Explorer"
-msgstr "Top Accounts - Ivar %{subnetwork} Explorer"
+msgstr "Top Accounts - Tero %{subnetwork} Explorer"
 
 #, elixir-format
 #: lib/block_scout_web/templates/address_logs/index.html.eex:14
@@ -2743,12 +2743,12 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/transaction/_metatags.html.eex:3
 msgid "Transaction %{transaction} - %{subnetwork} Explorer"
-msgstr "Transaction %{transaction} - Ivar %{subnetwork} Explorer"
+msgstr "Transaction %{transaction} - Tero %{subnetwork} Explorer"
 
 #, elixir-format
 #: lib/block_scout_web/templates/transaction/_metatags.html.eex:11
 msgid "Transaction %{transaction}, %{subnetwork} %{transaction}"
-msgstr "Transaction %{transaction}, Ivar %{subnetwork} %{transaction}"
+msgstr "Transaction %{transaction}, Tero %{subnetwork} %{transaction}"
 
 #, elixir-format
 #: lib/block_scout_web/templates/transaction/overview.html.eex:412
@@ -3070,7 +3070,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/transaction/_metatags.html.eex:10
 msgid "View transaction %{transaction} on %{subnetwork}"
-msgstr "View transaction %{transaction} on Ivar %{subnetwork}"
+msgstr "View transaction %{transaction} on Tero %{subnetwork}"
 
 #, elixir-format
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:39
